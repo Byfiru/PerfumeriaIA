@@ -1,5 +1,5 @@
-Titulo: Olor a Éxito: Clasificación de Fragancias Populares con Aprendizaje Automático.
-Integrantes; Brandon Ramirez y Cristóbal Soto.
+# Olor a Éxito: Clasificación de Fragancias Populares con Aprendizaje Automático.
+Integrantes: Brandon Ramirez y Cristóbal Soto.
 
 
 
