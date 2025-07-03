@@ -23,17 +23,29 @@ Desde el punto de vista del marketing, esta información no solo es valiosa para
 El dataset cuenta con las siguientes variables:
  
 URL: El enlace a la página de la fragancia.
+
 Perfume: El nombre del perfume.
+
 Brand: Nombres de la marca.
+
 Country: Nombres de los paises de donde provienen.
+
 Gender: Género comercializado de la fragancia (Hombre, mujer, unisex).
+
 Ratin Value: Nota promedio del perfume. 
+
 Rating Count: Cantidad de usuarios que votaron.
+
 Year: El año de lanzamiento.
+
 Top: Notas olfativas.
+
 Middle: Notas medias.
+
 Base: Notas de base.
+
 Perfumer1, Perfumer2: Nombres de los perfumistas.
+
 mainaccord 1-5: Familias olfativas.
 
 Con estos datos se buscara crear una nueva variable, que correspondera a la popularidad real del producto basado en su nota promedio como tambien en la cantidad de personas que participaron,
